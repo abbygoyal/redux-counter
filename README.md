@@ -4,7 +4,7 @@ React Redux Counter with Authentication
 
 ## Live Project Link
 
-[React-Redux-counter](https://tracker-expenses-react.netlify.app/)
+[React-Redux-counter](https://redux-counter-react.netlify.app/)
 
 # How to fork and clone
 
