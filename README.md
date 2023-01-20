@@ -1,10 +1,10 @@
-## React-Expense-Tracker
+## React-Redux-counter
 
-React Expenses Tracker using onState
+React Redux Counter with Authentication 
 
 ## Live Project Link
 
-[React-Expense-Tracker](https://tracker-expenses-react.netlify.app/)
+[React-Redux-counter](https://tracker-expenses-react.netlify.app/)
 
 # How to fork and clone
 
