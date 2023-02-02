@@ -1,6 +1,6 @@
 ## React-Redux-counter
 
-React Redux Counter with Authentication 
+React Redux Counter with Authentication.
 
 ## Live Project Link
 
